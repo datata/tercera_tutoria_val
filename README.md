@@ -13,7 +13,6 @@ Esto es la tutoria numero 3 del curso de programación desde cero, Aprendiendo g
 
 1. clonar repositorio
 2. [instalar dependecias](https://www.npmjs.com/)
-3. configurar base de datos.
 
 ```javascript
     const variable = 15;
